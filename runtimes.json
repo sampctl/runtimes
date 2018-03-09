@@ -1,0 +1,135 @@
+{
+    "aliases": {
+        "latest": "0.3.7-R2-2-1",
+        "0.3.7": "0.3.7-R2-2-1",
+        "0.3.7-R2-1": "0.3.7-R2-1",
+        "0.3.7-R2-2-1": "0.3.7-R2-2-1",
+        "0.3z": "0.3z-R4",
+        "0.3z-R1": "0.3z-R1",
+        "0.3z-R1-2": "0.3z-R1-2",
+        "0.3z-R2-2": "0.3z-R2-2",
+        "0.3z-R3": "0.3z-R3",
+        "0.3z-R4": "0.3z-R4"
+    },
+    "packages": [
+        {
+            "version": "0.3.7-R2-2-1",
+            "linux": "samp037svr_R2-2-1.tar.gz",
+            "win32": "samp037_svr_R2-2-1_win32.zip",
+            "linux_checksum": "f20eb466306226274511b111edbadb1f",
+            "win32_checksum": "2ce9cc6c4f322a39ed6221c72ff2233d",
+            "linux_paths": {
+                "samp03/announce": "announce",
+                "samp03/samp-npc": "samp-npc",
+                "samp03/samp03svr": "samp03svr"
+            },
+            "win32_paths": {
+                "announce.exe": "announce.exe",
+                "samp-npc.exe": "samp-npc.exe",
+                "samp-server.exe": "samp-server.exe"
+            }
+        },
+        {
+            "version": "0.3.7-R2-1",
+            "linux": "samp037svr_R2-1.tar.gz",
+            "win32": "samp037_svr_R2-1-1_win32.zip",
+            "linux_checksum": "29b1da32c50d7dc0454fdc8237f8281a",
+            "win32_checksum": "b33733969f7dc7572e154ab70011767f",
+            "linux_paths": {
+                "samp03/announce": "announce",
+                "samp03/samp-npc": "samp-npc",
+                "samp03/samp03svr": "samp03svr"
+            },
+            "win32_paths": {
+                "announce.exe": "announce.exe",
+                "samp-npc.exe": "samp-npc.exe",
+                "samp-server.exe": "samp-server.exe"
+            }
+        },
+        {
+            "version": "0.3z-R4",
+            "linux": "samp03zsvr_R4.tar.gz",
+            "win32": "samp03z_svr_R4_win32.zip",
+            "linux_checksum": "c4aac3c696072ad009dddcdce41c5d18",
+            "win32_checksum": "428f72ba4468a05498287f7bf599d075",
+            "linux_paths": {
+                "samp03/announce": "announce",
+                "samp03/samp-npc": "samp-npc",
+                "samp03/samp03svr": "samp03svr"
+            },
+            "win32_paths": {
+                "announce.exe": "announce.exe",
+                "samp-npc.exe": "samp-npc.exe",
+                "samp-server.exe": "samp-server.exe"
+            }
+        },
+        {
+            "version": "0.3z-R3",
+            "linux": "samp03zsvr_R3.tar.gz",
+            "win32": "samp03z_svr_R3_win32.zip",
+            "linux_checksum": "964e221f6aa43c739cfe96862d4caf3b",
+            "win32_checksum": "8ab95699ad15689e1c444389f4b0d99f",
+            "linux_paths": {
+                "samp03/announce": "announce",
+                "samp03/samp-npc": "samp-npc",
+                "samp03/samp03svr": "samp03svr"
+            },
+            "win32_paths": {
+                "announce.exe": "announce.exe",
+                "samp-npc.exe": "samp-npc.exe",
+                "samp-server.exe": "samp-server.exe"
+            }
+        },
+        {
+            "version": "0.3z-R2-2",
+            "linux": "samp03zsvr_R2-2.tar.gz",
+            "win32": "samp03z_svr_R2-2_win32.zip",
+            "linux_checksum": "9f19f1df3020032a2e95e6aa93eab280",
+            "win32_checksum": "9c08de894244b07feb154579a12c7782",
+            "linux_paths": {
+                "samp03/announce": "announce",
+                "samp03/samp-npc": "samp-npc",
+                "samp03/samp03svr": "samp03svr"
+            },
+            "win32_paths": {
+                "announce.exe": "announce.exe",
+                "samp-npc.exe": "samp-npc.exe",
+                "samp-server.exe": "samp-server.exe"
+            }
+        },
+        {
+            "version": "0.3z-R1-2",
+            "linux": "samp03zsvr_R1-2.tar.gz",
+            "win32": "samp03z_svr_R1-2_win32.zip",
+            "linux_checksum": "a84f1247d6bbf1e3ecaa634ecc5e5d1d",
+            "win32_checksum": "723f0a00d4f4f3dfb1e1b5fd9d36133c",
+            "linux_paths": {
+                "samp03/announce": "announce",
+                "samp03/samp-npc": "samp-npc",
+                "samp03/samp03svr": "samp03svr"
+            },
+            "win32_paths": {
+                "announce.exe": "announce.exe",
+                "samp-npc.exe": "samp-npc.exe",
+                "samp-server.exe": "samp-server.exe"
+            }
+        },
+        {
+            "version": "0.3z-R1",
+            "linux": "samp03zsvr_R1.tar.gz",
+            "win32": "samp03z_svr_R1_win32.zip",
+            "linux_checksum": "60dace014f6f812e77377e24dde540af",
+            "win32_checksum": "df2aa201e74a92003456c509576db8bf",
+            "linux_paths": {
+                "samp03/announce": "announce",
+                "samp03/samp-npc": "samp-npc",
+                "samp03/samp03svr": "samp03svr"
+            },
+            "win32_paths": {
+                "announce.exe": "announce.exe",
+                "samp-npc.exe": "samp-npc.exe",
+                "samp-server.exe": "samp-server.exe"
+            }
+        }
+    ]
+}
