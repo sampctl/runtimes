@@ -1,6 +1,7 @@
 {
     "aliases": {
         "latest": "0.3.7-R2-2-1",
+        "0.3.DL": "0.3.DL-R1",
         "0.3.7": "0.3.7-R2-2-1",
         "0.3.7-R2-1": "0.3.7-R2-1",
         "0.3.7-R2-2-1": "0.3.7-R2-2-1",
@@ -11,7 +12,24 @@
         "0.3z-R3": "0.3z-R3",
         "0.3z-R4": "0.3z-R4"
     },
-    "packages": [
+    "packages": [   
+        {
+            "version": "0.3.DL",
+            "linux": "03DL/samp03DLsvr_R1.tar.gz",
+            "win32": "03DL/samp03DL_svr_R1_win32.zip",
+            "linux_checksum": "8675611253f727107a049c8556b0a8d4",
+            "win32_checksum": "103f16cbc307fd004d757e992dca77e7",
+            "linux_paths": {
+                "samp03/announce": "announce",
+                "samp03/samp-npc": "samp-npc",
+                "samp03/samp03svr": "samp03svr"
+            },
+            "win32_paths": {
+                "announce.exe": "announce.exe",
+                "samp-npc.exe": "samp-npc.exe",
+                "samp-server.exe": "samp-server.exe"
+            }
+        },
         {
             "version": "0.3.7-R2-2-1",
             "linux": "samp037svr_R2-2-1.tar.gz",
