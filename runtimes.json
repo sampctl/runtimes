@@ -10,7 +10,7 @@
             "version": "0.3.DL-R1",
             "linux": "http://forum.sa-mp.com/files/03DL/samp03DLsvr_R1.tar.gz",
             "win32": "http://forum.sa-mp.com/files/03DL/samp03DL_svr_R1_win32.zip",
-            "linux_checksum": "8675611253f727107a049c8556b0a8d4",
+            "linux_checksum": "5c6405290dbe79454019e2bae41a9446",
             "win32_checksum": "103f16cbc307fd004d757e992dca77e7",
             "linux_paths": {
                 "samp03/announce": "announce",
