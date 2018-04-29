@@ -3,7 +3,11 @@
         "latest": "0.3.7-R2-2-1",
         "0.3.DL": "0.3.DL-R1",
         "0.3.7": "0.3.7-R2-2-1",
-        "0.3z": "0.3z-R4"
+        "0.3z": "0.3z-R4",
+        "A1-MP": "A1-MP-C3",
+        "CR-MP": "CR-MP-C3",
+        "U2-MP": "U2-MP-C3",
+        "G6-MP": "G6-MP-C3"
     },
     "packages": [
         {
@@ -140,6 +144,74 @@
                 "announce.exe": "announce.exe",
                 "samp-npc.exe": "samp-npc.exe",
                 "samp-server.exe": "samp-server.exe"
+            }
+        },
+        {
+            "version": "A1-MP-C3",
+            "linux": "http://www.gtasrv.ru/download-srv/srv-a1-mp-c3-linux.tar.gz",
+            "win32": "http://www.gtasrv.ru/download-srv/srv-a1-mp-c3-win.zip",
+            "linux_checksum": "cce42802a10658df222fa7b4383edded",
+            "win32_checksum": "9a440ec29d6cf77988ba934fa946b40d",
+            "linux_paths": {
+                "srv-a1-mp-c3-linux/announa1": "announa1",
+                "srv-a1-mp-c3-linux/adap-npc": "adap-npc",
+                "srv-a1-mp-c3-linux/samp03svr-a1": "samp03svr-a1"
+            },
+            "win32_paths": {
+                "announa1.exe": "announa1.exe",
+                "adap-npc.exe": "adap-npc.exe",
+                "samp-server-a1.exe": "samp-server-a1.exe"
+            }
+        },
+        {
+            "version": "CR-MP-C3",
+            "linux": "http://www.gtasrv.ru/download-srv/srv-cr-mp-c3-linux.tar.gz",
+            "win32": "http://www.gtasrv.ru/download-srv/srv-cr-mp-c3-win.zip",
+            "linux_checksum": "38e42e5e8ac0f7b27c448cfcb0ee8632",
+            "win32_checksum": "a1d21fa2ef91071b6ac9825dcff63dcd",
+            "linux_paths": {
+                "srv-cr-mp-c3-linux/announcr": "announcr",
+                "srv-cr-mp-c3-linux/adap-npc": "adap-npc",
+                "srv-cr-mp-c3-linux/samp03svr-cr": "samp03svr-cr"
+            },
+            "win32_paths": {
+                "announcr.exe": "announcr.exe",
+                "adap-npc.exe": "adap-npc.exe",
+                "samp-server-cr.exe": "samp-server-cr.exe"
+            }
+        },
+        {
+            "version": "U2-MP-C3",
+            "linux": "http://www.gtasrv.ru/download-srv/srv-u2-mp-c3-linux.tar.gz",
+            "win32": "http://www.gtasrv.ru/download-srv/srv-u2-mp-c3-win.zip",
+            "linux_checksum": "e823f6541637119c004b1a982460fc51",
+            "win32_checksum": "68d93d75cf1d7a6ebc09a0a4dc58c7be",
+            "linux_paths": {
+                "srv-u2-mp-c3-linux/announu2": "announu2",
+                "srv-u2-mp-c3-linux/adap-npc": "adap-npc",
+                "srv-u2-mp-c3-linux/samp03svr-u2": "samp03svr-u2"
+            },
+            "win32_paths": {
+                "announu2.exe": "announu2.exe",
+                "adap-npc.exe": "adap-npc.exe",
+                "samp-server-u2.exe": "samp-server-u2.exe"
+            }
+        },
+        {
+            "version": "G6-MP-C3",
+            "linux": "http://www.gtasrv.ru/download-srv/srv-g6-mp-c3-linux.tar.gz",
+            "win32": "http://www.gtasrv.ru/download-srv/srv-g6-mp-c3-win.zip",
+            "linux_checksum": "ccba0605d20de074e2a336289c67585b",
+            "win32_checksum": "a1b3334802a9bc68f0a8086b9dc46f7e",
+            "linux_paths": {
+                "srv-g6-mp-c3-linux/announu2": "announg6",
+                "srv-g6-mp-c3-linux/adap-npc": "adap-npc",
+                "srv-g6-mp-c3-linux/samp03svr-u2": "samp03svr-g6"
+            },
+            "win32_paths": {
+                "announg6.exe": "announg6.exe",
+                "adap-npc.exe": "adap-npc.exe",
+                "samp-server-g6.exe": "samp-server-g6.exe"
             }
         }
     ]
