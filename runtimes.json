@@ -206,7 +206,7 @@
             "linux_paths": {
                 "srv-g6-mp-c3-linux/announu2": "announg6",
                 "srv-g6-mp-c3-linux/adap-npc": "adap-npc",
-                "srv-g6-mp-c3-linux/samp03svr-u2": "samp03svr-g6"
+                "srv-g6-mp-c3-linux/samp03svr-g6": "samp03svr-g6"
             },
             "win32_paths": {
                 "announg6.exe": "announg6.exe",
