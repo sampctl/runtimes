@@ -150,8 +150,8 @@
             "version": "A1-MP-C3",
             "linux": "http://www.gtasrv.ru/download-srv/srv-a1-mp-c3-linux.tar.gz",
             "win32": "http://www.gtasrv.ru/download-srv/srv-a1-mp-c3-win.zip",
-            "linux_checksum": "cce42802a10658df222fa7b4383edded",
-            "win32_checksum": "9a440ec29d6cf77988ba934fa946b40d",
+            "linux_checksum": "fbdb7dca7af231b7ab4d2cc49676b48b",
+            "win32_checksum": "bb41d2cfd4541e9620dcfe9d8c32d188",
             "linux_paths": {
                 "srv-a1-mp-c3-linux/announa1": "announa1",
                 "srv-a1-mp-c3-linux/adap-npc": "adap-npc",
@@ -167,8 +167,8 @@
             "version": "CR-MP-C3",
             "linux": "http://www.gtasrv.ru/download-srv/srv-cr-mp-c3-linux.tar.gz",
             "win32": "http://www.gtasrv.ru/download-srv/srv-cr-mp-c3-win.zip",
-            "linux_checksum": "38e42e5e8ac0f7b27c448cfcb0ee8632",
-            "win32_checksum": "a1d21fa2ef91071b6ac9825dcff63dcd",
+            "linux_checksum": "6d513ad5c608794e246ad941fe0e3685",
+            "win32_checksum": "3a9f950acb28c35dd905d670539dd7f0",
             "linux_paths": {
                 "srv-cr-mp-c3-linux/announcr": "announcr",
                 "srv-cr-mp-c3-linux/adap-npc": "adap-npc",
@@ -184,8 +184,8 @@
             "version": "U2-MP-C3",
             "linux": "http://www.gtasrv.ru/download-srv/srv-u2-mp-c3-linux.tar.gz",
             "win32": "http://www.gtasrv.ru/download-srv/srv-u2-mp-c3-win.zip",
-            "linux_checksum": "e823f6541637119c004b1a982460fc51",
-            "win32_checksum": "68d93d75cf1d7a6ebc09a0a4dc58c7be",
+            "linux_checksum": "edadfaeae30057fd2bf685ef811185eb",
+            "win32_checksum": "acc622c9e85fc5bfa91f51b7504e0fd8",
             "linux_paths": {
                 "srv-u2-mp-c3-linux/announu2": "announu2",
                 "srv-u2-mp-c3-linux/adap-npc": "adap-npc",
@@ -201,8 +201,8 @@
             "version": "G6-MP-C3",
             "linux": "http://www.gtasrv.ru/download-srv/srv-g6-mp-c3-linux.tar.gz",
             "win32": "http://www.gtasrv.ru/download-srv/srv-g6-mp-c3-win.zip",
-            "linux_checksum": "ccba0605d20de074e2a336289c67585b",
-            "win32_checksum": "a1b3334802a9bc68f0a8086b9dc46f7e",
+            "linux_checksum": "a96554842610388d3fbf84a0ad84cf99",
+            "win32_checksum": "d107ee965ff82f511de9b3e7669daa1e",
             "linux_paths": {
                 "srv-g6-mp-c3-linux/announu2": "announg6",
                 "srv-g6-mp-c3-linux/adap-npc": "adap-npc",
