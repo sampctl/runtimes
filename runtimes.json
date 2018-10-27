@@ -31,7 +31,7 @@
             "version": "0.3.7-R2-2-1",
             "linux": "http://files.sa-mp.com/samp037svr_R2-2-1.tar.gz",
             "win32": "http://files.sa-mp.com/samp037_svr_R2-2-1_win32.zip",
-            "linux_checksum": "b5e0a204236e39c1fe9afdb6e61884",
+            "linux_checksum": "b5e0a204236e39c1fe9afdb6e61884ca",
             "win32_checksum": "bae97f464172341570dad84eaee5b3a7",
             "linux_paths": {
                 "samp03/announce": "announce",
