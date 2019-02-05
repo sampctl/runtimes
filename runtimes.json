@@ -3,8 +3,7 @@
         "latest": "0.3.7-R2-2-1",
         "0.3.DL": "0.3.DL-R1",
         "0.3.7": "0.3.7-R2-2-1",
-        "0.3z": "0.3z-R4",
-        "CR-MP": "CR-MP-C5"
+        "0.3z": "0.3z-R4"
     },
     "packages": [
         {
@@ -144,32 +143,15 @@
             }
         },
         {
-            "version": "CR-MP-C5",
+            "version": "CR-MP",
             "linux": "https://dl.sampsrv.ru/dl/srv-cr-mp-c5-linux.tar.gz",
             "win32": "https://dl.sampsrv.ru/dl/srv-cr-mp-c5-win.zip",
             "linux_checksum": "9dbe118588ee8fe2d81fd1b8968551fa",
             "win32_checksum": "6a6036034c8e860389ef5627b8c0c810",
             "linux_paths": {
-                "srv-cr-mp-c3-linux/announcr": "announcr",
-                "srv-cr-mp-c3-linux/adap-npc": "adap-npc",
-                "srv-cr-mp-c3-linux/samp03svr-cr": "samp03svr-cr"
-            },
-            "win32_paths": {
-                "announcr.exe": "announcr.exe",
-                "adap-npc.exe": "adap-npc.exe",
-                "samp-server-cr.exe": "samp-server-cr.exe"
-            }
-        },
-        {
-            "version": "CR-MP-C3",
-            "linux": "http://www.gtasrv.ru/download-srv/srv-cr-mp-c3-linux.tar.gz",
-            "win32": "http://www.gtasrv.ru/download-srv/srv-cr-mp-c3-win.zip",
-            "linux_checksum": "38e42e5e8ac0f7b27c448cfcb0ee8632",
-            "win32_checksum": "a1d21fa2ef91071b6ac9825dcff63dcd",
-            "linux_paths": {
-                "srv-cr-mp-c3-linux/announcr": "announcr",
-                "srv-cr-mp-c3-linux/adap-npc": "adap-npc",
-                "srv-cr-mp-c3-linux/samp03svr-cr": "samp03svr-cr"
+                "samp03/announcr": "announcr",
+                "samp03/adap-npc": "adap-npc",
+                "samp03/samp03svr-cr": "samp03svr-cr"
             },
             "win32_paths": {
                 "announcr.exe": "announcr.exe",
