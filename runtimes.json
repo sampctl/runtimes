@@ -8,8 +8,8 @@
     "packages": [
         {
             "version": "0.3.DL-R1",
-            "linux": "http://forum.sa-mp.com/files/03DL/samp03DLsvr_R1.tar.gz",
-            "win32": "http://forum.sa-mp.com/files/03DL/samp03DL_svr_R1_win32.zip",
+            "linux": "https://archive.org/download/sa-mp-0.3.dl/samp03DLsvr_R1.tar.gz",
+            "win32": "https://archive.org/download/sa-mp-0.3.dl/samp03DL_svr_R1_win32.zip",
             "linux_checksum": "6e0f4477fd37841638f740efff0c89ba",
             "win32_checksum": "525900b315d813539a4d54611bdc5080",
             "linux_paths": {
