@@ -4,13 +4,13 @@
         "0.3.DL": "0.3.DL-R1",
         "0.3.7": "0.3.7-R2-2-1",
         "0.3z": "0.3z-R4",
-        "UG-MP": "UGMP"
+        "UGMP": "UG-MP"
     },
     "packages": [
         {
-            "version": "UGMP",
-            "linux": "https://files.ug-rp.org/server/ugmp-server-linux.tar.gz",
-            "win32": "https://files.ug-rp.org/server/ugmp-server-win32.zip",
+            "version": "UG-MP",
+            "linux": "https://files.u-rp.org/server/ugmp-server-linux.tar.gz",
+            "win32": "https://files.u-rp.org/server/ugmp-server-win32.zip",
             "linux_checksum": "00297e5352b78c2b92d23d802fa71d3e",
             "win32_checksum": "4051593f36e52825d5a96e9099b18689",
             "linux_paths": {
