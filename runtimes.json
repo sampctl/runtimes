@@ -176,6 +176,23 @@
                 "adap-npc.exe": "adap-npc.exe",
                 "samp-server-cr.exe": "samp-server-cr.exe"
             }
+        },
+        {
+            "version": "U2-MP",
+            "linux": "http://www.gtasrv.ru/download-srv/srv-u2-mp-c3-linux.tar.gz",
+            "win32": "http://www.gtasrv.ru/download-srv/srv-u2-mp-c3-win.zip",
+            "linux_checksum": "e823f6541637119c004b1a982460fc51",
+            "win32_checksum": "68d93d75cf1d7a6ebc09a0a4dc58c7be",
+            "linux_paths": {
+                "srv-u2-mp-c3-linux/announu2": "announu2",
+                "srv-u2-mp-c3-linux/adap-npc": "adap-npc",
+                "srv-u2-mp-c3-linux/samp03svr-u2": "samp03svr-u2"
+            },
+            "win32_paths": {
+                "announu2.exe": "announu2.exe",
+                "adap-npc.exe": "adap-npc.exe",
+                "samp-server-u2.exe": "samp-server-u2.exe"
+            }
         }
     ]
 }
