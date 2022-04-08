@@ -9,8 +9,8 @@
     "packages": [
         {
             "version": "UG-MP",
-            "linux": "https://assets.open.mp/sampctl/packages/ugmp-server-linux.tar.gz",
-            "win32": "https://assets.open.mp/sampctl/packages/ugmp-server-win32.zip",
+            "linux": "https://github.com/sampctl/runtimes/raw/master/packages/ugmp-server-linux.tar.gz",
+            "win32": "https://github.com/sampctl/runtimes/raw/master/packages/ugmp-server-win32.zip",
             "linux_checksum": "126cf8b7b2be2bcfc288fd6c2247429c",
             "win32_checksum": "81a7fbb78835ae0baf6ba202b0a1b7b6",
             "linux_paths": {
@@ -26,8 +26,8 @@
         },
         {
             "version": "0.3.DL-R1",
-            "linux": "https://assets.open.mp/sampctl/packages/samp03DLsvr_R1.tar.gz",
-            "win32": "https://assets.open.mp/sampctl/packages/samp03DL_svr_R1_win32.zip",
+            "linux": "https://github.com/sampctl/runtimes/raw/master/packages/samp03DLsvr_R1.tar.gz",
+            "win32": "https://github.com/sampctl/runtimes/raw/master/packages/samp03DL_svr_R1_win32.zip",
             "linux_checksum": "6e0f4477fd37841638f740efff0c89ba",
             "win32_checksum": "525900b315d813539a4d54611bdc5080",
             "linux_paths": {
@@ -43,8 +43,8 @@
         },
         {
             "version": "0.3.7-R2-2-1",
-            "linux": "https://assets.open.mp/sampctl/packages/samp037svr_R2-2-1.tar.gz",
-            "win32": "https://assets.open.mp/sampctl/packages/samp037_svr_R2-2-1_win32.zip",
+            "linux": "https://github.com/sampctl/runtimes/raw/master/packages/samp037svr_R2-2-1.tar.gz",
+            "win32": "https://github.com/sampctl/runtimes/raw/master/packages/samp037_svr_R2-2-1_win32.zip",
             "linux_checksum": "b5e0a204236e39c1fe9afdb6e61884ca",
             "win32_checksum": "bae97f464172341570dad84eaee5b3a7",
             "linux_paths": {
@@ -60,8 +60,8 @@
         },
         {
             "version": "0.3.7-R2-1",
-            "linux": "https://assets.open.mp/sampctl/packages/samp037svr_R2-1.tar.gz",
-            "win32": "https://assets.open.mp/sampctl/packages/samp037_svr_R2-1-1_win32.zip",
+            "linux": "https://github.com/sampctl/runtimes/raw/master/packages/samp037svr_R2-1.tar.gz",
+            "win32": "https://github.com/sampctl/runtimes/raw/master/packages/samp037_svr_R2-1-1_win32.zip",
             "linux_checksum": "93705e165550c97484678236749198a4",
             "win32_checksum": "0084b401f2516b98ebedeea5e09262cf",
             "linux_paths": {
@@ -77,8 +77,8 @@
         },
         {
             "version": "0.3z-R4",
-            "linux": "https://assets.open.mp/sampctl/packages/samp03zsvr_R4.tar.gz",
-            "win32": "https://assets.open.mp/sampctl/packages/samp03z_svr_R4_win32.zip",
+            "linux": "https://github.com/sampctl/runtimes/raw/master/packages/samp03zsvr_R4.tar.gz",
+            "win32": "https://github.com/sampctl/runtimes/raw/master/packages/samp03z_svr_R4_win32.zip",
             "linux_checksum": "7e0f18d1a367a3522f306d1e71477005",
             "win32_checksum": "06b8a886d1e93fa434f8f270077b1b0b",
             "linux_paths": {
@@ -94,8 +94,8 @@
         },
         {
             "version": "0.3z-R3",
-            "linux": "https://assets.open.mp/sampctl/packages/samp03zsvr_R3.tar.gz",
-            "win32": "https://assets.open.mp/sampctl/packages/samp03z_svr_R3_win32.zip",
+            "linux": "https://github.com/sampctl/runtimes/raw/master/packages/samp03zsvr_R3.tar.gz",
+            "win32": "https://github.com/sampctl/runtimes/raw/master/packages/samp03z_svr_R3_win32.zip",
             "linux_checksum": "bfdeb1083b87a65a234935ccf32f38ee",
             "win32_checksum": "97d9bce57d60badcdf74e281ded6a798",
             "linux_paths": {
@@ -111,8 +111,8 @@
         },
         {
             "version": "0.3z-R2-2",
-            "linux": "https://assets.open.mp/sampctl/packages/samp03zsvr_R2-2.tar.gz",
-            "win32": "https://assets.open.mp/sampctl/packages/samp03z_svr_R2-2_win32.zip",
+            "linux": "https://github.com/sampctl/runtimes/raw/master/packages/samp03zsvr_R2-2.tar.gz",
+            "win32": "https://github.com/sampctl/runtimes/raw/master/packages/samp03z_svr_R2-2_win32.zip",
             "linux_checksum": "bc7a377ab39dd022de6b02100555347d",
             "win32_checksum": "eeec71bfe6431ef78316d0ebdacc734a",
             "linux_paths": {
@@ -128,8 +128,8 @@
         },
         {
             "version": "0.3z-R1-2",
-            "linux": "https://assets.open.mp/sampctl/packages/samp03zsvr_R1-2.tar.gz",
-            "win32": "https://assets.open.mp/sampctl/packages/samp03z_svr_R1-2_win32.zip",
+            "linux": "https://github.com/sampctl/runtimes/raw/master/packages/samp03zsvr_R1-2.tar.gz",
+            "win32": "https://github.com/sampctl/runtimes/raw/master/packages/samp03z_svr_R1-2_win32.zip",
             "linux_checksum": "93a24e619417c6608ff6505c02897159",
             "win32_checksum": "8ce35b52c2ed9c7b308a95375d06a150",
             "linux_paths": {
@@ -145,8 +145,8 @@
         },
         {
             "version": "0.3z-R1",
-            "linux": "https://assets.open.mp/sampctl/packages/samp03zsvr_R1.tar.gz",
-            "win32": "https://assets.open.mp/sampctl/packages/samp03z_svr_R1_win32.zip",
+            "linux": "https://github.com/sampctl/runtimes/raw/master/packages/samp03zsvr_R1.tar.gz",
+            "win32": "https://github.com/sampctl/runtimes/raw/master/packages/samp03z_svr_R1_win32.zip",
             "linux_checksum": "215ffd7a4893caa91c737c05899d3ee9",
             "win32_checksum": "c0e3d21b5324e5bb01afbe4c1036d8b2",
             "linux_paths": {
@@ -162,8 +162,8 @@
         },
         {
             "version": "CR-MP",
-            "linux": "https://assets.open.mp/sampctl/packages/srv-cr-mp-c5-linux.tar.gz",
-            "win32": "https://assets.open.mp/sampctl/packages/srv-cr-mp-c5-win.zip",
+            "linux": "https://github.com/sampctl/runtimes/raw/master/packages/srv-cr-mp-c5-linux.tar.gz",
+            "win32": "https://github.com/sampctl/runtimes/raw/master/packages/srv-cr-mp-c5-win.zip",
             "linux_checksum": "9dbe118588ee8fe2d81fd1b8968551fa",
             "win32_checksum": "6a6036034c8e860389ef5627b8c0c810",
             "linux_paths": {
@@ -179,8 +179,8 @@
         },
         {
             "version": "U2-MP",
-            "linux": "https://assets.open.mp/sampctl/packages/srv-u2-mp-c3-linux.tar.gz",
-            "win32": "https://assets.open.mp/sampctl/packages/srv-u2-mp-c3-win.zip",
+            "linux": "https://github.com/sampctl/runtimes/raw/master/packages/srv-u2-mp-c3-linux.tar.gz",
+            "win32": "https://github.com/sampctl/runtimes/raw/master/packages/srv-u2-mp-c3-win.zip",
             "linux_checksum": "e823f6541637119c004b1a982460fc51",
             "win32_checksum": "68d93d75cf1d7a6ebc09a0a4dc58c7be",
             "linux_paths": {
