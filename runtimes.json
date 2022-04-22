@@ -1,12 +1,28 @@
 {
     "aliases": {
         "latest": "0.3.7-R2-2-1",
+        "openmp": "openmp-beta-v2",
         "0.3.DL": "0.3.DL-R1",
         "0.3.7": "0.3.7-R2-2-1",
         "0.3z": "0.3z-R4",
         "UGMP": "UG-MP"
     },
     "packages": [
+        {
+            "version": "openmp-beta-v2",
+            "linux": "https://github.com/sampctl/runtimes/raw/master/packages/openmp_beta_v2_linux.tar.gz",
+            "win32": "https://github.com/sampctl/runtimes/raw/master/packages/openmp_beta_v2_windows.zip",
+            "linux_checksum": "6ca509cf73013a67a413ed55f4d8f5e7",
+            "win32_checksum": "49924526dc5383aeaaf991d6ed625b24",
+            "linux_paths": {
+                "omp-server": "samp03svr",
+                "components": "components"
+            },
+            "win32_paths": {
+                "omp-server": "samp-server.exe",
+                "components": "components"
+            }
+        },
         {
             "version": "UG-MP",
             "linux": "https://github.com/sampctl/runtimes/raw/master/packages/ugmp-server-linux.tar.gz",
