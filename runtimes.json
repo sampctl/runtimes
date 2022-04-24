@@ -54,7 +54,7 @@
                 "components/Classes.dll": "components/Classes.dll",
                 "components/Checkpoints.dll": "components/Checkpoints.dll",
                 "components/Actors.dll": "components/Actors.dll",
-                "omp-server": "samp-server.exe"
+                "omp-server.exe": "samp-server.exe"
             }
         },
         {
