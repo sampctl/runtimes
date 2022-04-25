@@ -1,13 +1,62 @@
 {
     "aliases": {
         "latest": "0.3.7-R2-2-1",
-        "openmp": "openmp-beta-v2",
+        "openmp": "openmp-beta-v3",
         "0.3.DL": "0.3.DL-R1",
         "0.3.7": "0.3.7-R2-2-1",
         "0.3z": "0.3z-R4",
         "UGMP": "UG-MP"
     },
     "packages": [
+        {
+            "version": "openmp-beta-v3",
+            "linux": "https://github.com/openmultiplayer/server-beta/releases/download/build3/open.mp-linux.tar.gz",
+            "win32": "https://github.com/openmultiplayer/server-beta/releases/download/build3/open.mp-windows.zip",
+            "linux_checksum": "e2d98767885fe803df2ecc8b8be0ee31",
+            "win32_checksum": "20641b97589f989e6bb4227185fd9df9",
+            "linux_paths": {
+                "components/Vehicle.so": "components/Vehicle.so",
+                "components/Variables.so": "components/Variables.so",
+                "components/Unicode.so": "components/Unicode.so",
+                "components/Timers.so": "components/Timers.so",
+                "components/TextLabels.so": "components/TextLabels.so",
+                "components/Pickups.so": "components/Pickups.so",
+                "components/Pawn.so": "components/Pawn.so",
+                "components/Objects.so": "components/Objects.so",
+                "components/Menus.so": "components/Menus.so",
+                "components/LegacyNetwork.so": "components/LegacyNetwork.so",
+                "components/LegacyConfig.so": "components/LegacyConfig.so",
+                "components/GangZones.so": "components/GangZones.so",
+                "components/Dialogs.so": "components/Dialogs.so",
+                "components/Databases.so": "components/Databases.so",
+                "components/Console.so": "components/Console.so",
+                "components/Classes.so": "components/Classes.so",
+                "components/Checkpoints.so": "components/Checkpoints.so",
+                "components/Actors.so": "components/Actors.so",
+                "omp-server": "samp03svr"
+            },
+            "win32_paths": {
+                "components/Vehicle.dll": "components/Vehicle.dll",
+                "components/Variables.dll": "components/Variables.dll",
+                "components/Unicode.dll": "components/Unicode.dll",
+                "components/Timers.dll": "components/Timers.dll",
+                "components/TextLabels.dll": "components/TextLabels.dll",
+                "components/Pickups.dll": "components/Pickups.dll",
+                "components/Pawn.dll": "components/Pawn.dll",
+                "components/Objects.dll": "components/Objects.dll",
+                "components/Menus.dll": "components/Menus.dll",
+                "components/LegacyNetwork.dll": "components/LegacyNetwork.dll",
+                "components/LegacyConfig.dll": "components/LegacyConfig.dll",
+                "components/GangZones.dll": "components/GangZones.dll",
+                "components/Dialogs.dll": "components/Dialogs.dll",
+                "components/Databases.dll": "components/Databases.dll",
+                "components/Console.dll": "components/Console.dll",
+                "components/Classes.dll": "components/Classes.dll",
+                "components/Checkpoints.dll": "components/Checkpoints.dll",
+                "components/Actors.dll": "components/Actors.dll",
+                "omp-server.exe": "samp-server.exe"
+            }
+        },        
         {
             "version": "openmp-beta-v2",
             "linux": "https://github.com/sampctl/runtimes/raw/master/packages/openmp_beta_v2_linux.tar.gz",
