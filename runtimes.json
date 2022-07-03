@@ -15,7 +15,7 @@
             "linux_checksum": "27efd0f10162505fcfbea47f67d8b2a2",
             "win32_checksum": "f5450dc2220fede3a68daf787a6e85ab",
             "linux_paths": {
-                "components/Vehicle.so": "components/Vehicle.so",
+                "components/Vehicles.so": "components/Vehicles.so",
                 "components/Variables.so": "components/Variables.so",
                 "components/Unicode.so": "components/Unicode.so",
                 "components/Timers.so": "components/Timers.so",
@@ -37,7 +37,7 @@
                 "omp-server": "samp03svr"
             },
             "win32_paths": {
-                "components/Vehicle.dll": "components/Vehicle.dll",
+                "components/Vehicles.dll": "components/Vehicles.dll",
                 "components/Variables.dll": "components/Variables.dll",
                 "components/Unicode.dll": "components/Unicode.dll",
                 "components/Timers.dll": "components/Timers.dll",
@@ -66,7 +66,7 @@
             "linux_checksum": "d160a39b3c7e97817fe272c392523471",
             "win32_checksum": "9907f476f05d94da2ff32f772ebd1755",
             "linux_paths": {
-                "components/Vehicle.so": "components/Vehicle.so",
+                "components/Vehicles.so": "components/Vehicles.so",
                 "components/Variables.so": "components/Variables.so",
                 "components/Unicode.so": "components/Unicode.so",
                 "components/Timers.so": "components/Timers.so",
@@ -88,7 +88,7 @@
                 "omp-server": "samp03svr"
             },
             "win32_paths": {
-                "components/Vehicle.dll": "components/Vehicle.dll",
+                "components/Vehicles.dll": "components/Vehicles.dll",
                 "components/Variables.dll": "components/Variables.dll",
                 "components/Unicode.dll": "components/Unicode.dll",
                 "components/Timers.dll": "components/Timers.dll",
@@ -117,7 +117,7 @@
             "linux_checksum": "e2d98767885fe803df2ecc8b8be0ee31",
             "win32_checksum": "20641b97589f989e6bb4227185fd9df9",
             "linux_paths": {
-                "components/Vehicle.so": "components/Vehicle.so",
+                "components/Vehicles.so": "components/Vehicles.so",
                 "components/Variables.so": "components/Variables.so",
                 "components/Unicode.so": "components/Unicode.so",
                 "components/Timers.so": "components/Timers.so",
@@ -139,7 +139,7 @@
                 "omp-server": "samp03svr"
             },
             "win32_paths": {
-                "components/Vehicle.dll": "components/Vehicle.dll",
+                "components/Vehicles.dll": "components/Vehicles.dll",
                 "components/Variables.dll": "components/Variables.dll",
                 "components/Unicode.dll": "components/Unicode.dll",
                 "components/Timers.dll": "components/Timers.dll",
@@ -168,7 +168,7 @@
             "linux_checksum": "6ca509cf73013a67a413ed55f4d8f5e7",
             "win32_checksum": "49924526dc5383aeaaf991d6ed625b24",
             "linux_paths": {
-                "components/Vehicle.so": "components/Vehicle.so",
+                "components/Vehicles.so": "components/Vehicles.so",
                 "components/Variables.so": "components/Variables.so",
                 "components/Unicode.so": "components/Unicode.so",
                 "components/Timers.so": "components/Timers.so",
@@ -190,7 +190,7 @@
                 "omp-server": "samp03svr"
             },
             "win32_paths": {
-                "components/Vehicle.dll": "components/Vehicle.dll",
+                "components/Vehicles.dll": "components/Vehicles.dll",
                 "components/Variables.dll": "components/Variables.dll",
                 "components/Unicode.dll": "components/Unicode.dll",
                 "components/Timers.dll": "components/Timers.dll",
