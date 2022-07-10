@@ -12,8 +12,8 @@
             "version": "openmp-beta-v6",
             "linux": "https://github.com/openmultiplayer/server-beta/releases/download/build6/open.mp-linux.tar.gz",
             "win32": "https://github.com/openmultiplayer/server-beta/releases/download/build6/open.mp-windows.zip",
-            "linux_checksum": "34f903e550025f4c97fd38fd16847b85",
-            "win32_checksum": "7d73db1521994088f8177a96bfd86da2",
+            "linux_checksum": "7e48b1e6b1cce63e56d36fce1362e71a",
+            "win32_checksum": "63cc1204c502c5e72139d20af1977885",
             "linux_paths": {
                 "components/Vehicles.so": "components/Vehicles.so",
                 "components/Variables.so": "components/Variables.so",
