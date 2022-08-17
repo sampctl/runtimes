@@ -10,7 +10,7 @@
     "packages": [
         {
             "version": "openmp-beta-v8",
-            "linux": "https://github.com/sampctl/runtimes/blob/master/packages/openmp_beta_v8_linux.tar.gz",
+            "linux": "https://github.com/sampctl/runtimes/raw/master/packages/openmp_beta_v8_linux.tar.gz",
             "win32": "https://github.com/openmultiplayer/server-beta/releases/download/build8/open.mp-windows.zip",
             "linux_checksum": "ca9312ed1c907962ca0cc1a96827725d",
             "win32_checksum": "1cad7dd3333d88c3c46f92b4b8b1ff74",
