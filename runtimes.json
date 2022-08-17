@@ -12,7 +12,7 @@
             "version": "openmp-beta-v8",
             "linux": "https://github.com/openmultiplayer/server-beta/releases/download/build8/open.mp-linux.tar.xz",
             "win32": "https://github.com/openmultiplayer/server-beta/releases/download/build8/open.mp-windows.zip",
-            "linux_checksum": "dded4981262403b428176b3ca6b9e19a",
+            "linux_checksum": "56af649468f6e7a195c5b99d7c5287af",
             "win32_checksum": "1cad7dd3333d88c3c46f92b4b8b1ff74",
             "linux_paths": {
                 "components/Vehicles.so": "components/Vehicles.so",
