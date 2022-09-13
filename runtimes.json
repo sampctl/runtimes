@@ -10,9 +10,9 @@
     "packages": [
          {
             "version": "openmp-beta-v10",
-            "linux": "https://github.com/openmultiplayer/server-beta/releases/download/build10/open.mp-linux-x86.tar.xz",
+            "linux": "https://github.com/openmultiplayer/server-beta/releases/download/build10/open.mp-linux-x86.tar.gz",
             "win32": "https://github.com/openmultiplayer/server-beta/releases/download/build10/open.mp-windows.zip",
-            "linux_checksum": "80ef3cede36433ab880211a5c5a2211a",
+            "linux_checksum": "47b857281088ba42f2b12d890d384805",
             "win32_checksum": "8a53f65f711781f91a9cc1223224228d",
             "linux_paths": {
                 "components/Vehicles.so": "components/Vehicles.so",
