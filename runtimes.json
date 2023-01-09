@@ -11,7 +11,7 @@
         {
             "version": "openmp-rc2",
             "linux": "https://github.com/openmultiplayer/open.mp/releases/download/v1-RC2/open.mp-linux-x86.tar.gz",
-            "windows": "https://github.com/openmultiplayer/open.mp/releases/download/v1-RC2/open.mp-win-x86.zip",
+            "win32": "https://github.com/openmultiplayer/open.mp/releases/download/v1-RC2/open.mp-win-x86.zip",
             "linux_checksum": "f6a1598148bb1ea61721ce5131b2eca3",
             "win32_checksum": "fd604d242d7f7a4a342e629d65f62b4c",
             "linux_paths": {
@@ -65,8 +65,8 @@
         },
         {
             "version": "openmp-rc1",
-            "linux": "https://github.com/openmultiplayer/open.mp/releases/download/v1-RC1/open.mp-linux-x86.tar.xz",
-            "windows": "https://github.com/openmultiplayer/open.mp/releases/download/v1-RC1/open.mp-win-x86.zip",
+            "linux": "https://github.com/openmultiplayer/server-beta-old/releases/download/RC1/open.mp-linux-x86.tar.gz",
+            "win32": "https://github.com/openmultiplayer/server-beta-old/releases/download/RC1/open.mp-win-x86.zip",
             "linux_checksum": "90dae277ea19cc0bf931d61a7ec677ae",
             "win32_checksum": "1108382d36df75297f96ac00a651b2dd",
             "linux_paths": {
