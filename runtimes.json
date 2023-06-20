@@ -9,6 +9,35 @@
     },
     "packages": [
         {
+            "version": "openmp-dynssl",
+            "linux": "https://github.com/openmultiplayer/open.mp/releases/download/v1-RC2/open.mp-linux-x86-dynssl.tar.gz",
+            "linux_checksum": "2773dccaa2d8ddbdc57763b94ffa571d",
+            "linux_paths": {
+                "components/Actors.so": "components/Actors.so",
+                "components/Checkpoints.so": "components/Checkpoints.so",
+                "components/Classes.so": "components/Classes.so",
+                "components/Console.so": "components/Console.so",
+                "components/CustomModels.so": "components/CustomModels.so",
+                "components/Databases.so": "components/Databases.so",
+                "components/Dialogs.so": "components/Dialogs.so",
+                "components/Fixes.so": "components/Fixes.so",
+                "components/GangZones.so": "components/GangZones.so",
+                "components/LegacyConfig.so": "components/LegacyConfig.so",
+                "components/LegacyNetwork.so": "components/LegacyNetwork.so",
+                "components/Menus.so": "components/Menus.so",
+                "components/Objects.so": "components/Objects.so",
+                "components/Pawn.so": "components/Pawn.so",
+                "components/Pickups.so": "components/Pickups.so",
+                "components/TextDraws.so": "components/TextDraws.so",
+                "components/TextLabels.so": "components/TextLabels.so",
+                "components/Timers.so": "components/Timers.so",
+                "components/Unicode.so": "components/Unicode.so",
+                "components/Variables.so": "components/Variables.so",
+                "components/Vehicles.so": "components/Vehicles.so",
+                "omp-server": "samp03svr"
+            }
+        },
+        {
             "version": "openmp-rc2",
             "linux": "https://github.com/openmultiplayer/open.mp/releases/download/v1-RC2/open.mp-linux-x86.tar.gz",
             "win32": "https://github.com/openmultiplayer/open.mp/releases/download/v1-RC2/open.mp-win-x86.zip",
