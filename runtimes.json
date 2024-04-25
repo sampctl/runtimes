@@ -5,6 +5,7 @@
         "0.3.DL": "0.3.DL-R1",
         "0.3z": "0.3z-R4",
         "UGMP": "UG-MP",
+        "openmp": "openmp-120",
         "openmp-1.2": "openmp-120",
         "openmp-rc2": "openmp-rc2",
         "openmp-rc1": "openmp-rc1"
