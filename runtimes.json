@@ -6,8 +6,6 @@
         "0.3.7": "0.3.7-R2-2-1",
         "0.3z": "0.3z-R4",
         "UGMP": "UG-MP",
-        "openmp-rc2": "openmp-rc2",
-        "openmp-rc1": "openmp-rc1"
     },
     "packages": [
         {
