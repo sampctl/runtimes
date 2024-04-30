@@ -9,7 +9,7 @@
     },
     "packages": [
         {
-        "version": "openmp-120-dynssl",
+            "version": "openmp-120-dynssl",
             "linux": "https://github.com/openmultiplayer/open.mp/releases/download/v1.2.0.2670/open.mp-linux-x86-dynssl.tar.gz",
             "win32": "",
             "linux_checksum": "71af35942018a5abb7e67f98568c4475",
