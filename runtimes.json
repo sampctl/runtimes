@@ -1,7 +1,7 @@
 {
     "aliases": {
         "latest": "0.3.7-R2-2-1",
-        "openmp": "openmp-120",
+        "openmp": "openmp-131",
         "0.3.DL": "0.3.DL-R1",
         "0.3.7": "0.3.7-R2-2-1",
         "0.3z": "0.3z-R4",
