@@ -12,7 +12,7 @@
             "version": "openmp-131-dynssl",
             "linux": "https://github.com/openmultiplayer/open.mp/releases/download/v1.3.1.2748/open.mp-linux-x86-dynssl.tar.gz",
             "win32": "",
-            "linux_checksum": "d54427068975c5095e94ad814ada59da",
+            "linux_checksum": "d6f8c2bea0ef8db93f6d36a98c1f370d",
             "win32_checksum": "",
             "linux_paths": {
                 "components/Actors.so": "components/Actors.so",
@@ -43,7 +43,7 @@
             "version": "openmp-131",
             "linux": "https://github.com/openmultiplayer/open.mp/releases/download/v1.3.1.2748/open.mp-linux-x86.tar.gz",
             "win32": "https://github.com/openmultiplayer/open.mp/releases/download/v1.3.1.2748/open.mp-win-x86.zip",
-            "linux_checksum": "d6f8c2bea0ef8db93f6d36a98c1f370d",
+            "linux_checksum": "d54427068975c5095e94ad814ada59da",
             "win32_checksum": "0089805047e0f64b5216697cef49c9b1",
             "linux_paths": {
                 "components/Actors.so": "components/Actors.so",
