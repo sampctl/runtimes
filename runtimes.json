@@ -575,7 +575,7 @@
         }, 
         {
             "version": "openmp-beta-v8",
-            "linux": "https://github.com/sampctl/runtimes/raw/master/packages/openmp_beta_v8_linux.tar.gz",
+            "linux": "https://github.com/openmultiplayer/server-beta-old/releases/download/build8/open.mp-linux.tar.xz",
             "win32": "https://github.com/openmultiplayer/server-beta-old/releases/download/build8/open.mp-windows.zip",
             "linux_checksum": "ca9312ed1c907962ca0cc1a96827725d",
             "win32_checksum": "1cad7dd3333d88c3c46f92b4b8b1ff74",
@@ -887,8 +887,8 @@
         },        
         {
             "version": "openmp-beta-v2",
-            "linux": "https://github.com/sampctl/runtimes/raw/master/packages/openmp_beta_v2_linux.tar.gz",
-            "win32": "https://github.com/sampctl/runtimes/raw/master/packages/openmp_beta_v2_windows.zip",
+            "linux": "https://github.com/openmultiplayer/server-beta-old/releases/download/build2/open.mp-linux.tar.gz",
+            "win32": "https://github.com/openmultiplayer/server-beta-old/releases/download/build2/open.mp-windows.zip",
             "linux_checksum": "6ca509cf73013a67a413ed55f4d8f5e7",
             "win32_checksum": "49924526dc5383aeaaf991d6ed625b24",
             "linux_paths": {
